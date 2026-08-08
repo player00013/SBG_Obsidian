@@ -1,0 +1,309 @@
+{
+  "main": {
+    "id": "3f0a161e4161e17e",
+    "type": "split",
+    "children": [
+      {
+        "id": "988ac05e29303fef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34117ea004969832",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_SBG/02_タスク管理/タスクチケット/スタート画面プロト版.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "スタート画面プロト版"
+            }
+          },
+          {
+            "id": "fbfe127822b33ed2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_SBG/02_タスク管理/タスクチケット/全画面のディレクトリ図作成.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "全画面のディレクトリ図作成"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "314ec8f8d48055a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4495658d12be400",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d70e8dd6fef628a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "8f0a93132a4a7514",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "657820c632ce2887",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fcdae028e67f91c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "d61c15d9b66ed2fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44832302dd3c65f2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00_SBG/02_タスク管理/タスクチケット/スタート画面プロト版.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "バックリンク"
+            }
+          },
+          {
+            "id": "f73cac797d1d78b4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00_共同開発テンプレ/07_ライブラリ/画像素材/Pasted image 20260717222833.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Pasted image 20260717222833からのアウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "e1b5a030146e768f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "c1c13f07a3327573",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "すべてのプロパティ"
+            }
+          },
+          {
+            "id": "9aad06014f91961b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00_SBG/02_タスク管理/タスクチケット/スタート画面プロト版.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "アウトライン"
+            }
+          },
+          {
+            "id": "ab1d3603c1d61f08",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "00_SBG/02_タスク管理/タスクチケット/スタート画面プロト版.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "脚注"
+            }
+          },
+          {
+            "id": "7cf9bc22a02b3902",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "publish:パブリッシュによる変更の公開…": false,
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "bases:新規ベースを作成": false,
+      "markdown-importer:Markdownインポーターを開く": false,
+      "audio-recorder:録音の開始/停止": false,
+      "zk-prefixer:新規ユニークノートの作成": false,
+      "workspaces:ワークスペースレイアウトを管理": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "34117ea004969832",
+  "lastOpenFiles": [
+    "00_SBG/02_タスク管理/タスクボード.md",
+    "00_SBG/02_タスク管理/タスクチケット/ホーム画面_プロト版.md",
+    "00_SBG/02_タスク管理/タスクチケット/全仮画面作成.md",
+    "00_SBG/03_質疑応答/質問ボード.md",
+    "00_SBG/07_ライブラリ/外部資料/sample_Ver.0.20.xlsx",
+    "00_SBG/07_ライブラリ/外部資料/9535A500",
+    "00_SBG/07_ライブラリ/外部資料/ppt21A0.tmp",
+    "00_SBG/07_ライブラリ/外部資料/pptECF7.tmp",
+    "00_SBG/01_はじめに/★クイックアクセス.canvas",
+    "00_SBG/01_はじめに/プラグイン一覧.md",
+    "00_SBG/02_タスク管理/タスクチケット/テスト.md",
+    "00_SBG/07_ライブラリ/テンプレ/タスクチケットテンプレート.md",
+    "00_SBG/07_ライブラリ/テンプレ/デイリーテンプレート.md",
+    "00_SBG/02_タスク管理/タスクチケット/サンプルデータVer0.20.md",
+    "00_SBG/02_タスク管理/タスクチケット/全画面のディレクトリ図作成.md",
+    "00_SBG/02_タスク管理/タスクチケット/スタート画面プロト版.md",
+    "00_SBG/04_仕様書/A_プロト版/01_Start.md",
+    "00_SBG/07_ライブラリ/テンプレ/汎用資料.md",
+    "00_SBG/07_ライブラリ/テンプレ",
+    "00_SBG/07_ライブラリ/外部資料/~$sample_Ver.0.19.xlsx",
+    "00_SBG/07_ライブラリ/外部資料/SBG.pptx",
+    "00_SBG/07_ライブラリ/画像素材/1_.webp",
+    "00_SBG/07_ライブラリ/画像素材/1_A.png",
+    "00_SBG/04_仕様書/A_プロト版/01_Start_Planner.md",
+    "00_SBG/04_仕様書/A_プロト版/Ver.1.0_プロト版仕様書.md",
+    "00_SBG/07_ライブラリ/画像素材/画面ボード.md",
+    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260802233201.png",
+    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260802231608.png",
+    "00_SBG/07_ライブラリ/外部資料/sample_Ver.0.19.xlsx",
+    "00_SBG/07_ライブラリ/sample_Ver.0.19.xlsx",
+    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260802112951.png",
+    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260802111122.png",
+    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260802105509.png",
+    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260802105115.png",
+    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260802073641.png",
+    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260802063609.png",
+    "00_共同開発テンプレ/07_ライブラリ",
+    "00_DeskWars/02_タスク管理/タスクリスト.md",
+    "00_DeskWars/02_タスク管理/タスクボード.md",
+    "00_DeskWars/02_タスク管理/タスクチケット/ステージ1レベルデザイン.md",
+    "00_DeskWars/02_タスク管理/タスクチケット/Test.md",
+    "00_DeskWars/07_ライブラリ/テンプレ/タスクチケットテンプレート.md",
+    "00_DeskWars/02_タスク管理/タスクチケット/プロパティテスト.md",
+    "00_SBG/01_はじめに/チュートリアル一覧/02_タスク管理チュートリアル.md",
+    "00_SBG/07_ライブラリ/データ検索/DataView.md",
+    "00_SBG/04_仕様書/D_マスター版/Ver.1.0_マスター版仕様書.md",
+    "00_SBG/06_発想広場/キャンバス/無題のファイル.canvas",
+    "00_SBG/06_発想広場/キャンバス/無題のファイル 1.canvas",
+    "00_SBG/06_発想広場/キャンバス/ホワイトボード_無題.canvas",
+    "00_DeskWars/01_はじめに/★クイックアクセス.canvas",
+    "00_DeskWars/06_発想広場/キャンバス/無題のファイル.canvas",
+    "00_DeskWars/06_発想広場/キャンバス/無題のファイル 1.canvas",
+    "00_DeskWars/06_発想広場/キャンバス/ホワイトボード_無題.canvas",
+    "00_DeskWars/06_発想広場/キャンバス/無題のファイル.canvas",
+    "00_DeskWars/06_発想広場/キャンバス/無題のファイル 1.canvas"
+  ]
+}
