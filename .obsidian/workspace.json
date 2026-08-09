@@ -11,20 +11,24 @@
             "id": "34117ea004969832",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "00_SBG/02_タスク管理/タスクボード.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
+                "file": "00_SBG/07_ライブラリ/外部資料/sample_Ver.0.20.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-trello",
-              "title": "タスクボード"
+              "icon": "lucide-file",
+              "title": "sample_Ver.0.20"
             }
           },
           {
@@ -246,8 +250,12 @@
   },
   "active": "34117ea004969832",
   "lastOpenFiles": [
-    "00_SBG/02_タスク管理/タスクチケット/スタート画面プロト版.md",
+    "00_SBG/07_ライブラリ/外部資料/3572BA20",
     "00_SBG/02_タスク管理/タスクボード.md",
+    "00_SBG/07_ライブラリ/外部資料/sample_Ver.0.20.md",
+    "00_SBG/07_ライブラリ/外部資料/~$sample_Ver.0.20.xlsx",
+    "00_SBG/07_ライブラリ/外部資料/~$SBG.pptx",
+    "00_SBG/02_タスク管理/タスクチケット/スタート画面プロト版.md",
     "00_SBG/02_タスク管理/タスクチケット/ホーム画面_プロト版.md",
     "00_SBG/02_タスク管理/タスクチケット/全仮画面作成.md",
     "00_SBG/03_質疑応答/質問ボード.md",
@@ -275,14 +283,12 @@
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20260802233201.png",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20260802231608.png",
     "00_SBG/07_ライブラリ/外部資料/sample_Ver.0.19.xlsx",
-    "00_SBG/07_ライブラリ/sample_Ver.0.19.xlsx",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20260802112951.png",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20260802111122.png",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20260802105509.png",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20260802105115.png",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20260802073641.png",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20260802063609.png",
-    "00_共同開発テンプレ/07_ライブラリ",
     "00_DeskWars/02_タスク管理/タスクリスト.md",
     "00_DeskWars/02_タスク管理/タスクボード.md",
     "00_DeskWars/02_タスク管理/タスクチケット/ステージ1レベルデザイン.md",
@@ -291,7 +297,6 @@
     "00_DeskWars/02_タスク管理/タスクチケット/プロパティテスト.md",
     "00_SBG/01_はじめに/チュートリアル一覧/02_タスク管理チュートリアル.md",
     "00_SBG/07_ライブラリ/データ検索/DataView.md",
-    "00_SBG/04_仕様書/D_マスター版/Ver.1.0_マスター版仕様書.md",
     "00_SBG/06_発想広場/キャンバス/無題のファイル.canvas",
     "00_SBG/06_発想広場/キャンバス/無題のファイル 1.canvas",
     "00_SBG/06_発想広場/キャンバス/ホワイトボード_無題.canvas",
