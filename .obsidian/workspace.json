@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_SBG/07_ライブラリ/画像素材/画面ボード.md",
+                "file": "00_SBG/04_仕様書/A_プロト版/01_Start_Planner.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "画面ボード"
+              "title": "01_Start_Planner"
             }
           },
           {
@@ -250,6 +250,10 @@
   },
   "active": "34117ea004969832",
   "lastOpenFiles": [
+    "00_SBG/04_仕様書/A_プロト版/01_Start.md",
+    "00_SBG/04_仕様書/A_プロト版/Ver.1.0_プロト版仕様書.md",
+    "00_SBG/04_仕様書/A_プロト版/01_Start_Planner.md",
+    "00_SBG/07_ライブラリ/画像素材/画面ボード.md",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20260809201034.png",
     "00_SBG/07_ライブラリ/外部資料/sample_Ver.0.20.md",
     "00_SBG/07_ライブラリ/外部資料/sample_Ver.0.21.xlsx",
@@ -272,15 +276,11 @@
     "00_SBG/07_ライブラリ/テンプレ/デイリーテンプレート.md",
     "00_SBG/02_タスク管理/タスクチケット/サンプルデータVer0.20.md",
     "00_SBG/02_タスク管理/タスクチケット/全画面のディレクトリ図作成.md",
-    "00_SBG/04_仕様書/A_プロト版/01_Start.md",
     "00_SBG/07_ライブラリ/テンプレ/汎用資料.md",
     "00_SBG/07_ライブラリ/テンプレ",
     "00_SBG/07_ライブラリ/外部資料/~$sample_Ver.0.19.xlsx",
     "00_SBG/07_ライブラリ/画像素材/1_.webp",
     "00_SBG/07_ライブラリ/画像素材/1_A.png",
-    "00_SBG/04_仕様書/A_プロト版/01_Start_Planner.md",
-    "00_SBG/04_仕様書/A_プロト版/Ver.1.0_プロト版仕様書.md",
-    "00_SBG/07_ライブラリ/画像素材/画面ボード.md",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20260802233201.png",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20260802231608.png",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20260802112951.png",
@@ -288,7 +288,6 @@
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20260802105509.png",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20260802105115.png",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20260802073641.png",
-    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260802063609.png",
     "00_DeskWars/02_タスク管理/タスクリスト.md",
     "00_DeskWars/02_タスク管理/タスクボード.md",
     "00_DeskWars/02_タスク管理/タスクチケット/ステージ1レベルデザイン.md",
