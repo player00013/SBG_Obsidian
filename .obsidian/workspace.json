@@ -35,12 +35,24 @@
             "id": "fbfe127822b33ed2",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "00_SBG/07_ライブラリ/画像素材/Pasted image 20260717222833.png"
+                "file": "00_SBG/07_ライブラリ/画像素材/画面ボード.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260717222833"
+              "icon": "lucide-file",
+              "title": "画面ボード"
             }
           }
         ],
@@ -282,13 +294,15 @@
       }
     ]
   },
-  "active": "5f2a1ca9b2a48103",
+  "active": "fbfe127822b33ed2",
   "lastOpenFiles": [
+    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260811210420.png",
+    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260811210227.png",
+    "00_SBG/02_タスク管理/タスクボード.md",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20260717222833.png",
     "00_SBG/07_ライブラリ/画像素材/1_.png",
     "00_SBG/07_ライブラリ/画像素材/1_A.png",
     "00_SBG/02_タスク管理/タスクチケット/全画面のディレクトリ図作成.md",
-    "00_SBG/02_タスク管理/タスクボード.md",
     "00_SBG/07_ライブラリ/画像素材/画面ボード.md",
     "00_SBG/07_ライブラリ/外部資料/sample_Ver.0.23.xlsx",
     "00_SBG/07_ライブラリ/外部資料/4A36D430",
@@ -321,8 +335,6 @@
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20260802233201.png",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20260802231608.png",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20260802112951.png",
-    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260802111122.png",
-    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260802105509.png",
     "00_DeskWars/02_タスク管理/タスクリスト.md",
     "00_DeskWars/02_タスク管理/タスクボード.md",
     "00_DeskWars/02_タスク管理/タスクチケット/ステージ1レベルデザイン.md",
