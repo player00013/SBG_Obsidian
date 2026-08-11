@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_SBG/07_ライブラリ/外部資料/sample_Ver.0.20.md",
-                "mode": "preview",
+                "file": "00_SBG/07_ライブラリ/画像素材/画面ボード.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "sample_Ver.0.20"
+              "title": "画面ボード"
             }
           },
           {
@@ -248,8 +248,14 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "7cf9bc22a02b3902",
+  "active": "34117ea004969832",
   "lastOpenFiles": [
+    "00_SBG/07_ライブラリ/外部資料/sample_Ver.0.23.xlsx",
+    "00_SBG/07_ライブラリ/外部資料/4A36D430",
+    "00_SBG/07_ライブラリ/外部資料/~$sample_Ver.0.22.xlsx",
+    "00_SBG/07_ライブラリ/画像素材/1_.png",
+    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260811130536.png",
+    "00_SBG/07_ライブラリ/外部資料/sample_Ver.0.20.md",
     "00_SBG/07_ライブラリ/外部資料/sample_Ver.0.22.xlsx",
     "00_SBG/07_ライブラリ/外部資料/7F475330",
     "00_SBG/07_ライブラリ/外部資料/4DD65330",
@@ -263,11 +269,7 @@
     "00_SBG/04_仕様書/A_プロト版/Ver.1.0_プロト版仕様書.md",
     "00_SBG/07_ライブラリ/画像素材/画面ボード.md",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20260809201034.png",
-    "00_SBG/07_ライブラリ/外部資料/sample_Ver.0.20.md",
     "00_SBG/07_ライブラリ/外部資料/sample_Ver.0.21.xlsx",
-    "00_SBG/07_ライブラリ/外部資料/3572BA20",
-    "00_SBG/07_ライブラリ/外部資料/~$sample_Ver.0.20.xlsx",
-    "00_SBG/07_ライブラリ/外部資料/~$SBG.pptx",
     "00_SBG/02_タスク管理/タスクチケット/スタート画面プロト版.md",
     "00_SBG/02_タスク管理/タスクチケット/ホーム画面_プロト版.md",
     "00_SBG/02_タスク管理/タスクチケット/全仮画面作成.md",
@@ -287,8 +289,6 @@
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20260802112951.png",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20260802111122.png",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20260802105509.png",
-    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260802105115.png",
-    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260802073641.png",
     "00_DeskWars/02_タスク管理/タスクリスト.md",
     "00_DeskWars/02_タスク管理/タスクボード.md",
     "00_DeskWars/02_タスク管理/タスクチケット/ステージ1レベルデザイン.md",
