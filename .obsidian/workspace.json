@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_SBG/04_仕様書/A_プロト版/01_Start_Planner.md",
-                "mode": "source",
+                "file": "00_SBG/07_ライブラリ/外部資料/sample_Ver.0.20.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "01_Start_Planner"
+              "title": "sample_Ver.0.20"
             }
           },
           {
@@ -250,15 +250,16 @@
   },
   "active": "34117ea004969832",
   "lastOpenFiles": [
+    "00_SBG/07_ライブラリ/外部資料/pptC6CE.tmp",
+    "00_SBG/04_仕様書/A_プロト版/01_Start_Planner.md",
+    "00_SBG/02_タスク管理/タスクボード.md",
     "00_SBG/04_仕様書/A_プロト版/01_Start.md",
     "00_SBG/04_仕様書/A_プロト版/Ver.1.0_プロト版仕様書.md",
-    "00_SBG/04_仕様書/A_プロト版/01_Start_Planner.md",
     "00_SBG/07_ライブラリ/画像素材/画面ボード.md",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20260809201034.png",
     "00_SBG/07_ライブラリ/外部資料/sample_Ver.0.20.md",
     "00_SBG/07_ライブラリ/外部資料/sample_Ver.0.21.xlsx",
     "00_SBG/07_ライブラリ/外部資料/3572BA20",
-    "00_SBG/02_タスク管理/タスクボード.md",
     "00_SBG/07_ライブラリ/外部資料/~$sample_Ver.0.20.xlsx",
     "00_SBG/07_ライブラリ/外部資料/~$SBG.pptx",
     "00_SBG/02_タスク管理/タスクチケット/スタート画面プロト版.md",
