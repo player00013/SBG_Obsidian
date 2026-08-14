@@ -35,20 +35,24 @@
             "id": "fbfe127822b33ed2",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "00_SBG/02_タスク管理/タスクボード.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
+                "file": "00_SBG/07_ライブラリ/外部資料/sample_Ver.0.25.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-trello",
-              "title": "タスクボード"
+              "icon": "lucide-file",
+              "title": "sample_Ver.0.25"
             }
           }
         ],
@@ -247,19 +251,20 @@
   },
   "active": "fbfe127822b33ed2",
   "lastOpenFiles": [
-    "00_SBG/07_ライブラリ/外部資料/sample_Ver.0.25.md",
+    "00_SBG/07_ライブラリ/外部資料/~$SBG.pptx",
+    "00_SBG/07_ライブラリ/外部資料/A10E7200",
+    "00_SBG/07_ライブラリ/外部資料/~$sample_Ver.0.25.xlsx",
     "00_SBG/02_タスク管理/タスクボード.md",
+    "00_SBG/07_ライブラリ/外部資料/sample_Ver.0.25.md",
     "00_SBG/07_ライブラリ/外部資料/sample_Ver.0.23.md",
     "00_SBG/07_ライブラリ/外部資料/sample_Ver.0.25.xlsx",
     "00_SBG/07_ライブラリ/外部資料/9BBB9830",
     "00_SBG/07_ライブラリ/外部資料/B0879830",
     "00_SBG/07_ライブラリ/外部資料/~$sample_Ver.0.24.xlsx",
     "00_SBG/07_ライブラリ/外部資料/ppt36F0.tmp",
-    "00_SBG/07_ライブラリ/外部資料/~$SBG.pptx",
     "00_SBG/07_ライブラリ/外部資料/ppt73CE.tmp",
     "00_SBG/07_ライブラリ/外部資料/sample_Ver.0.24.xlsx",
     "00_SBG/07_ライブラリ/外部資料/3ADE6630",
-    "00_SBG/07_ライブラリ/外部資料/75FC6630",
     "00_SBG/07_ライブラリ/画像素材/画面ボード.md",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20260811210420.png",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20260811210227.png",
@@ -293,7 +298,6 @@
     "00_DeskWars/02_タスク管理/タスクチケット/Test.md",
     "00_DeskWars/07_ライブラリ/テンプレ/タスクチケットテンプレート.md",
     "00_DeskWars/02_タスク管理/タスクチケット/プロパティテスト.md",
-    "00_SBG/01_はじめに/チュートリアル一覧/02_タスク管理チュートリアル.md",
     "00_SBG/06_発想広場/キャンバス/無題のファイル.canvas",
     "00_SBG/06_発想広場/キャンバス/無題のファイル 1.canvas",
     "00_SBG/06_発想広場/キャンバス/ホワイトボード_無題.canvas",
