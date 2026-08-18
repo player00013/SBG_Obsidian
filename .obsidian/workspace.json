@@ -26,8 +26,33 @@
               "icon": "lucide-trello",
               "title": "タスクボード"
             }
+          },
+          {
+            "id": "2f44c0be89331770",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -220,8 +245,15 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "fbfe127822b33ed2",
+  "active": "2f44c0be89331770",
   "lastOpenFiles": [
+    "00_SBG/02_タスク管理/タスクボード.md",
+    "conflict-files-obsidian-git.md",
+    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260816184131.png",
+    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260816184125.png",
+    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260816175940.png",
+    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260816175932.png",
+    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260816134944.png",
     "00_SBG/07_ライブラリ/外部資料/~$SBG.pptx",
     "00_SBG/07_ライブラリ/画像素材/画面ボード.md",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20260815162058.png",
@@ -229,7 +261,6 @@
     "00_SBG/07_ライブラリ/外部資料/ppt5282.tmp",
     "00_SBG/07_ライブラリ/外部資料/A10E7200",
     "00_SBG/07_ライブラリ/外部資料/~$sample_Ver.0.25.xlsx",
-    "00_SBG/02_タスク管理/タスクボード.md",
     "00_SBG/07_ライブラリ/外部資料/sample_Ver.0.23.md",
     "00_SBG/07_ライブラリ/外部資料/sample_Ver.0.25.xlsx",
     "00_SBG/07_ライブラリ/外部資料/9BBB9830",
@@ -241,14 +272,11 @@
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20260811210227.png",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20260717222833.png",
     "00_SBG/07_ライブラリ/画像素材/1_.png",
-    "00_SBG/07_ライブラリ/画像素材/1_A.png",
     "00_SBG/02_タスク管理/タスクチケット/全画面のディレクトリ図作成.md",
-    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260811130536.png",
     "00_SBG/07_ライブラリ/外部資料/sample_Ver.0.20.md",
     "00_SBG/04_仕様書/A_プロト版/01_Start_Planner.md",
     "00_SBG/04_仕様書/A_プロト版/01_Start.md",
     "00_SBG/04_仕様書/A_プロト版/Ver.1.0_プロト版仕様書.md",
-    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260809201034.png",
     "00_SBG/02_タスク管理/タスクチケット/スタート画面プロト版.md",
     "00_SBG/02_タスク管理/タスクチケット/ホーム画面_プロト版.md",
     "00_SBG/02_タスク管理/タスクチケット/全仮画面作成.md",
@@ -260,8 +288,6 @@
     "00_SBG/07_ライブラリ/テンプレ/デイリーテンプレート.md",
     "00_SBG/02_タスク管理/タスクチケット/サンプルデータVer0.20.md",
     "00_SBG/07_ライブラリ/テンプレ/汎用資料.md",
-    "00_SBG/07_ライブラリ/画像素材/1_.webp",
-    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260802233201.png",
     "00_DeskWars/02_タスク管理/タスクリスト.md",
     "00_DeskWars/02_タスク管理/タスクボード.md",
     "00_DeskWars/02_タスク管理/タスクチケット/ステージ1レベルデザイン.md",
