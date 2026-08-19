@@ -54,9 +54,33 @@
               "icon": "lucide-file",
               "title": "画面ボード"
             }
+          },
+          {
+            "id": "669808f0dfba9763",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -249,8 +273,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "fbfe127822b33ed2",
+  "active": "669808f0dfba9763",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "00_SBG/07_ライブラリ/画像素材/画面ボード.md",
+    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260819143320.png",
     "00_SBG/07_ライブラリ/外部資料/pptA3EC.tmp",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20260816231019.png",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20260816184131.png",
@@ -260,7 +287,6 @@
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20260816134944.png",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20260809201034.png",
     "00_SBG/07_ライブラリ/外部資料/~$~$SBG.pptx",
-    "00_SBG/07_ライブラリ/画像素材/画面ボード.md",
     "00_SBG/07_ライブラリ/外部資料/sample_Ver.0.25.md",
     "00_SBG/07_ライブラリ/外部資料/~$SBG.pptx",
     "00_SBG/02_タスク管理/タスクボード.md",
@@ -272,10 +298,8 @@
     "00_SBG/07_ライブラリ/外部資料/ppt36F0.tmp",
     "00_SBG/07_ライブラリ/外部資料/ppt73CE.tmp",
     "00_SBG/07_ライブラリ/外部資料/sample_Ver.0.24.xlsx",
-    "00_SBG/07_ライブラリ/外部資料/3ADE6630",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20260811210420.png",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20260811210227.png",
-    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260717222833.png",
     "00_SBG/02_タスク管理/タスクチケット/全画面のディレクトリ図作成.md",
     "00_SBG/07_ライブラリ/外部資料/sample_Ver.0.20.md",
     "00_SBG/04_仕様書/A_プロト版/01_Start_Planner.md",
