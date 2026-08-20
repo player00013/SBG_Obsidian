@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -269,12 +269,14 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "8a082433c4c0d2ce",
+  "active": "fbfe127822b33ed2",
   "lastOpenFiles": [
-    "00_SBG/07_ライブラリ/画像素材/画面ボード.md",
-    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260821004633.png",
+    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260821010742.png",
     "00_SBG/02_タスク管理/タスクチケット/ホーム画面_プロト版.md",
     "00_SBG/02_タスク管理/タスクボード.md",
+    "00_SBG/04_仕様書/A_プロト版/02_LoadScene_Planner.md",
+    "00_SBG/07_ライブラリ/画像素材/画面ボード.md",
+    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260821004633.png",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20260820235056.png",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20260820235050.png",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20260820235041.png",
@@ -284,7 +286,6 @@
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20260820222414.png",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20260820222024.png",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20260820222020.png",
-    "00_SBG/04_仕様書/A_プロト版/02_LoadScene_Planner.md",
     "00_SBG/07_ライブラリ/プロジェクトデータ/Program_Prototype_v0.8_2026-08-17_KAI/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser",
     "00_SBG/07_ライブラリ/プロジェクトデータ/Program_Prototype_v0.8_2026-08-17_KAI/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser",
     "00_SBG/07_ライブラリ/プロジェクトデータ/Program_Prototype_v0.8_2026-08-17_KAI/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser",
