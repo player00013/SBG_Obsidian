@@ -11,50 +11,6 @@
             "id": "34117ea004969832",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "00_SBG/02_タスク管理/タスクボード.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "タスクボード"
-            }
-          },
-          {
-            "id": "8a082433c4c0d2ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_SBG/02_タスク管理/タスクチケット/ホーム画面_プロト版.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "ホーム画面_プロト版"
-            }
-          },
-          {
-            "id": "fbfe127822b33ed2",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "00_SBG/07_ライブラリ/画像素材/画面ボード.md",
@@ -74,9 +30,53 @@
               "icon": "lucide-file",
               "title": "画面ボード"
             }
+          },
+          {
+            "id": "8a082433c4c0d2ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_SBG/04_仕様書/A_プロト版/02_LoadScene_Planner.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "02_LoadScene_Planner"
+            }
+          },
+          {
+            "id": "fbfe127822b33ed2",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "00_SBG/02_タスク管理/タスクボード.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "タスクボード"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -269,16 +269,17 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "fbfe127822b33ed2",
+  "active": "8a082433c4c0d2ce",
   "lastOpenFiles": [
+    "00_SBG/02_タスク管理/タスクチケット/ホーム画面_プロト版.md",
     "00_SBG/04_仕様書/A_プロト版/02_LoadScene_Planner (1).md",
+    "00_SBG/07_ライブラリ/画像素材/画面ボード.md",
+    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260822220442.png",
+    "00_SBG/02_タスク管理/タスクボード.md",
+    "00_SBG/04_仕様書/A_プロト版/02_LoadScene_Planner.md",
     "00_SBG/07_ライブラリ/外部資料/~$SBG.pptx",
     "00_SBG/07_ライブラリ/外部資料/ppt73F2.tmp",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20260821010742.png",
-    "00_SBG/02_タスク管理/タスクチケット/ホーム画面_プロト版.md",
-    "00_SBG/02_タスク管理/タスクボード.md",
-    "00_SBG/04_仕様書/A_プロト版/02_LoadScene_Planner.md",
-    "00_SBG/07_ライブラリ/画像素材/画面ボード.md",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20260821004633.png",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20260820235056.png",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20260820235050.png",
@@ -287,7 +288,6 @@
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20260820235027.png",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20260820222420.png",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20260820222414.png",
-    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260820222024.png",
     "00_SBG/07_ライブラリ/プロジェクトデータ/Program_Prototype_v0.8_2026-08-17_KAI/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser",
     "00_SBG/07_ライブラリ/プロジェクトデータ/Program_Prototype_v0.8_2026-08-17_KAI/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser",
     "00_SBG/07_ライブラリ/プロジェクトデータ/Program_Prototype_v0.8_2026-08-17_KAI/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser",
@@ -317,7 +317,6 @@
     "00_DeskWars/02_タスク管理/タスクリスト.md",
     "00_DeskWars/02_タスク管理/タスクボード.md",
     "00_DeskWars/02_タスク管理/タスクチケット/ステージ1レベルデザイン.md",
-    "00_DeskWars/02_タスク管理/タスクチケット/Test.md",
     "00_SBG/06_発想広場/キャンバス/無題のファイル.canvas",
     "00_SBG/06_発想広場/キャンバス/無題のファイル 1.canvas",
     "00_SBG/06_発想広場/キャンバス/ホワイトボード_無題.canvas",
