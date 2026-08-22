@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "34c3dea3a7796897",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
+          },
+          {
             "id": "8a082433c4c0d2ce",
             "type": "leaf",
             "state": {
@@ -75,7 +99,8 @@
               "title": "タスクボード"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -268,13 +293,14 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "34117ea004969832",
+  "active": "34c3dea3a7796897",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "00_SBG/07_ライブラリ/画像素材/画面ボード.md",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20260823004711.png",
     "00_SBG/04_仕様書/A_プロト版/02_LoadScene_Planner.md",
     "00_SBG/02_タスク管理/タスクチケット/ホーム画面_プロト版.md",
     "00_SBG/04_仕様書/A_プロト版/02_LoadScene_Planner (1).md",
-    "00_SBG/07_ライブラリ/画像素材/画面ボード.md",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20260822220442.png",
     "00_SBG/02_タスク管理/タスクボード.md",
     "00_SBG/07_ライブラリ/外部資料/~$SBG.pptx",
@@ -287,7 +313,6 @@
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20260820235034.png",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20260820235027.png",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20260820222420.png",
-    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260820222414.png",
     "00_SBG/07_ライブラリ/プロジェクトデータ/Program_Prototype_v0.8_2026-08-17_KAI/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser",
     "00_SBG/07_ライブラリ/プロジェクトデータ/Program_Prototype_v0.8_2026-08-17_KAI/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser",
     "00_SBG/07_ライブラリ/プロジェクトデータ/Program_Prototype_v0.8_2026-08-17_KAI/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser",
@@ -296,7 +321,6 @@
     "00_SBG/07_ライブラリ/プロジェクトデータ/Program_Prototype_v0.8_2026-08-17_KAI/MonoBleedingEdge/etc/mono/4.5/web.config",
     "00_SBG/07_ライブラリ/プロジェクトデータ/Program_Prototype_v0.8_2026-08-17_KAI/MonoBleedingEdge/etc/mono/4.5/settings.map",
     "00_SBG/07_ライブラリ/プロジェクトデータ/Program_Prototype_v0.8_2026-08-17_KAI/MonoBleedingEdge/etc/mono/4.5/machine.config",
-    "conflict-files-obsidian-git.md",
     "00_SBG/07_ライブラリ/外部資料/sample_Ver.0.25.md",
     "00_SBG/07_ライブラリ/外部資料/sample_Ver.0.23.md",
     "00_SBG/02_タスク管理/タスクチケット/全画面のディレクトリ図作成.md",
