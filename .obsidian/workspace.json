@@ -55,24 +55,13 @@
             "id": "34117ea004969832",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "00_SBG/02_タスク管理/タスクチケット/ホーム画面_プロト版.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "00_SBG/07_ライブラリ/データ検索/DataBase.base",
+                "viewName": "表"
               },
-              "icon": "lucide-file",
-              "title": "ホーム画面_プロト版"
+              "icon": "lucide-table",
+              "title": "DataBase"
             }
           }
         ],
@@ -271,10 +260,12 @@
   },
   "active": "34117ea004969832",
   "lastOpenFiles": [
+    "00_SBG/07_ライブラリ/データ検索/DataBase.md",
+    "00_SBG/07_ライブラリ/データ検索/DataBase.base",
+    "00_SBG/02_タスク管理/タスクチケット/ホーム画面_プロト版.md",
     "00_SBG/07_ライブラリ/外部資料/~$SBG.pptx",
     "00_SBG/07_ライブラリ/画像素材/画面ボード.md",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20260823184505.png",
-    "00_SBG/02_タスク管理/タスクチケット/ホーム画面_プロト版.md",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20260823162913.png",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20260823160849.png",
     "00_SBG/07_ライブラリ/外部資料/pptADC1.tmp",
@@ -296,7 +287,6 @@
     "00_SBG/07_ライブラリ/プロジェクトデータ/Program_Prototype_v0.8_2026-08-17_KAI/saika_BurstDebugInformation_DoNotShip/Data/Plugins/x86_64/lib_burst_generated.txt",
     "00_SBG/07_ライブラリ/プロジェクトデータ/Program_Prototype_v0.8_2026-08-17_KAI/MonoBleedingEdge/etc/mono/mconfig/config.xml",
     "00_SBG/07_ライブラリ/プロジェクトデータ/Program_Prototype_v0.8_2026-08-17_KAI/MonoBleedingEdge/etc/mono/4.5/web.config",
-    "00_SBG/07_ライブラリ/プロジェクトデータ/Program_Prototype_v0.8_2026-08-17_KAI/MonoBleedingEdge/etc/mono/4.5/settings.map",
     "00_SBG/07_ライブラリ/外部資料/sample_Ver.0.25.md",
     "00_SBG/07_ライブラリ/外部資料/sample_Ver.0.23.md",
     "00_SBG/02_タスク管理/タスクチケット/全画面のディレクトリ図作成.md",
@@ -316,7 +306,6 @@
     "00_SBG/07_ライブラリ/テンプレ/汎用資料.md",
     "00_DeskWars/02_タスク管理/タスクリスト.md",
     "00_DeskWars/02_タスク管理/タスクボード.md",
-    "00_DeskWars/02_タスク管理/タスクチケット/ステージ1レベルデザイン.md",
     "00_SBG/06_発想広場/キャンバス/無題のファイル.canvas",
     "00_SBG/06_発想広場/キャンバス/無題のファイル 1.canvas",
     "00_SBG/06_発想広場/キャンバス/ホワイトボード_無題.canvas",
