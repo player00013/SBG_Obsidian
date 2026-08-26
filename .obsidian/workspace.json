@@ -55,13 +55,24 @@
             "id": "34117ea004969832",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "00_SBG/07_ライブラリ/データ検索/DataBase.base",
-                "viewName": "表"
+                "file": "00_SBG/07_ライブラリ/テンプレ/タスクチケットテンプレート.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-table",
-              "title": "DataBase"
+              "icon": "lucide-file",
+              "title": "タスクチケットテンプレート"
             }
           }
         ],
@@ -260,8 +271,9 @@
   },
   "active": "34117ea004969832",
   "lastOpenFiles": [
-    "00_SBG/07_ライブラリ/データ検索/DataBase.md",
+    "00_SBG/07_ライブラリ/テンプレ/デイリーテンプレート.md",
     "00_SBG/07_ライブラリ/データ検索/DataBase.base",
+    "00_SBG/07_ライブラリ/データ検索/DataBase.md",
     "00_SBG/02_タスク管理/タスクチケット/ホーム画面_プロト版.md",
     "00_SBG/07_ライブラリ/外部資料/~$SBG.pptx",
     "00_SBG/07_ライブラリ/画像素材/画面ボード.md",
@@ -301,7 +313,6 @@
     "00_SBG/01_はじめに/プラグイン一覧.md",
     "00_SBG/02_タスク管理/タスクチケット/テスト.md",
     "00_SBG/07_ライブラリ/テンプレ/タスクチケットテンプレート.md",
-    "00_SBG/07_ライブラリ/テンプレ/デイリーテンプレート.md",
     "00_SBG/02_タスク管理/タスクチケット/サンプルデータVer0.20.md",
     "00_SBG/07_ライブラリ/テンプレ/汎用資料.md",
     "00_DeskWars/02_タスク管理/タスクリスト.md",
