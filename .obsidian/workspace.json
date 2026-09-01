@@ -30,20 +30,14 @@
               "icon": "lucide-file",
               "title": "ロード＆ホーム画面ボード"
             }
-          }
-        ]
-      },
-      {
-        "id": "72821cee0e7af648",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "1fd7ba5ee2352a8c",
+            "id": "b28f2ebefb33aa02",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_SBG/02_タスク管理/タスクチケット/セーブ画面_プロト版.md",
+                "file": "00_SBG/07_ライブラリ/データ検索/ゲート画面ボード.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -58,10 +52,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "セーブ画面_プロト版"
+              "title": "ゲート画面ボード"
+            }
+          },
+          {
+            "id": "ab314274b0d7c81d",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "00_SBG/02_タスク管理/タスクボード.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "タスクボード"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -254,14 +269,16 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "34117ea004969832",
+  "active": "ab314274b0d7c81d",
   "lastOpenFiles": [
+    "00_SBG/07_ライブラリ/データ検索/ゲート画面ボード.md",
+    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260901112215.png",
+    "00_SBG/07_ライブラリ/データ検索/ロード＆ホーム画面ボード.md",
+    "00_SBG/02_タスク管理/タスクボード.md",
+    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260901110624.png",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20260901103518.png",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20260901103131.png",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20260901103125.png",
-    "00_SBG/07_ライブラリ/データ検索/ゲート画面ボード.md",
-    "00_SBG/07_ライブラリ/データ検索/ロード＆ホーム画面ボード.md",
-    "00_SBG/02_タスク管理/タスクボード.md",
     "00_SBG/02_タスク管理/タスクチケット/セーブ画面_プロト版.md",
     "00_SBG/02_タスク管理/タスクチケット/ゲート画面_プロト版.md",
     "00_SBG/07_ライブラリ/外部資料/~$SBG.pptx",
@@ -275,9 +292,6 @@
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20260828045149.png",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20260828045142.png",
     "00_SBG/07_ライブラリ/外部資料/pptB339.tmp",
-    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260827021304.png",
-    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260827021206.png",
-    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260827021200.png",
     "00_SBG/07_ライブラリ/テンプレ/タスクチケットテンプレート.md",
     "00_SBG/07_ライブラリ/テンプレ/デイリーテンプレート.md",
     "00_SBG/07_ライブラリ/データ検索/DataBase.base",
