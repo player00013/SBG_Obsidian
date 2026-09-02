@@ -75,8 +75,7 @@
               "title": "タスクボード"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -269,14 +268,20 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "7cf9bc22a02b3902",
+  "active": "34117ea004969832",
   "lastOpenFiles": [
+    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260902123003.png",
+    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260902122957.png",
+    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260902122950.png",
+    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260902122945.png",
+    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260902122939.png",
+    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260902094655.png",
+    "00_SBG/02_タスク管理/タスクボード.md",
     "00_SBG/07_ライブラリ/外部資料/ppt943C.tmp",
     "00_SBG/07_ライブラリ/外部資料/ppt682A.tmp",
     "00_SBG/07_ライブラリ/データ検索/ゲート画面ボード.md",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20260901112215.png",
     "00_SBG/07_ライブラリ/データ検索/ロード＆ホーム画面ボード.md",
-    "00_SBG/02_タスク管理/タスクボード.md",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20260901110624.png",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20260901103518.png",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20260901103131.png",
@@ -287,12 +292,7 @@
     "00_SBG/07_ライブラリ/外部資料/ppt86DA.tmp",
     "00_SBG/02_タスク管理/タスクチケット/サンプルデータVer0.20.md",
     "00_SBG/07_ライブラリ/外部資料/pptD696.tmp",
-    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260830071449.png",
-    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260830014324.png",
     "00_SBG/07_ライブラリ/外部資料/ppt8D19.tmp",
-    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260829092053.png",
-    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260828045149.png",
-    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260828045142.png",
     "00_SBG/07_ライブラリ/外部資料/pptB339.tmp",
     "00_SBG/07_ライブラリ/テンプレ/タスクチケットテンプレート.md",
     "00_SBG/07_ライブラリ/テンプレ/デイリーテンプレート.md",
@@ -304,7 +304,6 @@
     "conflict-files-obsidian-git.md",
     "00_SBG/04_仕様書/A_プロト版/02_LoadScene_Planner (1).md",
     "00_SBG/07_ライブラリ/外部資料/ppt73F2.tmp",
-    "00_SBG/07_ライブラリ/プロジェクトデータ/Program_Prototype_v0.8_2026-08-17_KAI/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser",
     "00_SBG/07_ライブラリ/外部資料/sample_Ver.0.25.md",
     "00_SBG/07_ライブラリ/外部資料/sample_Ver.0.23.md",
     "00_SBG/02_タスク管理/タスクチケット/全画面のディレクトリ図作成.md",
