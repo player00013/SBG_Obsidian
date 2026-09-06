@@ -35,24 +35,20 @@
             "id": "b28f2ebefb33aa02",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "00_SBG/07_ライブラリ/データ検索/ゲート画面ボード.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "00_SBG/02_タスク管理/タスクボード.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
                 }
               },
-              "icon": "lucide-file",
-              "title": "ゲート画面ボード"
+              "icon": "lucide-trello",
+              "title": "タスクボード"
             }
           },
           {
@@ -271,6 +267,10 @@
   },
   "active": "b28f2ebefb33aa02",
   "lastOpenFiles": [
+    "00_SBG/07_ライブラリ/データ検索/ゲート画面ボード.md",
+    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260906215253.png",
+    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260906215203.png",
+    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260906214934.png",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20260906204226.png",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20260906204219.png",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20260906204212.png",
@@ -278,16 +278,11 @@
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20260906162750.png",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20260906155710.png",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20260906154759.png",
-    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260906153135.png",
-    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260906090220.png",
-    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260906090214.png",
-    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260906090204.png",
     "00_SBG/07_ライブラリ/外部資料/pptE05A.tmp",
     "00_SBG/07_ライブラリ/データ検索/ロード＆ホーム画面ボード.md",
     "00_SBG/02_タスク管理/タスクボード.md",
     "00_SBG/07_ライブラリ/外部資料/ppt943C.tmp",
     "00_SBG/07_ライブラリ/外部資料/ppt682A.tmp",
-    "00_SBG/07_ライブラリ/データ検索/ゲート画面ボード.md",
     "00_SBG/02_タスク管理/タスクチケット/セーブ画面_プロト版.md",
     "00_SBG/02_タスク管理/タスクチケット/ゲート画面_プロト版.md",
     "00_SBG/07_ライブラリ/外部資料/~$SBG.pptx",
