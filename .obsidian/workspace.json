@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_SBG/07_ライブラリ/データ検索/ロード＆ホーム画面ボード.md",
+                "file": "00_SBG/07_ライブラリ/データ検索/ゲート画面ボード.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ロード＆ホーム画面ボード"
+              "title": "ゲート画面ボード"
             }
           },
           {
@@ -271,22 +271,21 @@
   },
   "active": "b28f2ebefb33aa02",
   "lastOpenFiles": [
-    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260908130359.png",
-    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260908122840.png",
-    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260908122832.png",
-    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260908122824.png",
-    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260908121241.png",
-    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260908121234.png",
+    "00_SBG/07_ライブラリ/データ検索/ゲート画面ボード.md",
+    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260827015919.png",
+    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260827015926.png",
+    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260827021151.png",
+    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260827021200.png",
+    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260827021206.png",
+    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260827021304.png",
+    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260901103125.png",
+    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260901103131.png",
+    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260901103518.png",
+    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260902094655.png",
+    "00_SBG/07_ライブラリ/データ検索/ロード＆ホーム画面ボード.md",
     "00_SBG/02_タスク管理/タスクボード.md",
     "00_SBG/07_ライブラリ/外部資料/ppt3510.tmp",
-    "00_SBG/07_ライブラリ/データ検索/ゲート画面ボード.md",
-    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260906215253.png",
-    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260906215203.png",
-    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260906214934.png",
-    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260906204226.png",
-    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260906204219.png",
     "00_SBG/07_ライブラリ/外部資料/pptE05A.tmp",
-    "00_SBG/07_ライブラリ/データ検索/ロード＆ホーム画面ボード.md",
     "00_SBG/07_ライブラリ/外部資料/ppt943C.tmp",
     "00_SBG/07_ライブラリ/外部資料/ppt682A.tmp",
     "00_SBG/02_タスク管理/タスクチケット/セーブ画面_プロト版.md",
