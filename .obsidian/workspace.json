@@ -61,8 +61,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_SBG/07_ライブラリ/データ検索/武器製造画面.md",
-                "mode": "source",
+                "file": "00_SBG/04_仕様書/A_プロト版/03_HomeScene_Planner.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "武器製造画面"
+              "title": "03_HomeScene_Planner"
             }
           },
           {
@@ -123,8 +123,7 @@
               "title": "回想画面_プロト版"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -317,11 +316,15 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "0661d930b170a45b",
+  "active": "aba010d833eaed26",
   "lastOpenFiles": [
+    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260912183729.png",
+    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260912183718.png",
+    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260912183705.png",
+    "00_SBG/04_仕様書/A_プロト版/03_HomeScene_Planner.md",
+    "00_SBG/07_ライブラリ/データ検索/武器製造画面.md",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20260911234629.png",
     "00_SBG/07_ライブラリ/データ検索/娼館画面.md",
-    "00_SBG/07_ライブラリ/データ検索/武器製造画面.md",
     "00_SBG/07_ライブラリ/外部資料/~$SBG.pptx",
     "00_SBG/07_ライブラリ/外部資料/ppt9EE7.tmp",
     "00_SBG/07_ライブラリ/データ検索/ゲート画面ボード.md",
@@ -335,9 +338,6 @@
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20260910214625.png",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20260910214235.png",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20260910213724.png",
-    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260910213716.png",
-    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260910213710.png",
-    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260910213246.png",
     "00_SBG/02_タスク管理/タスクチケット/回想画面_プロト版.md",
     "00_SBG/07_ライブラリ/データ検索/ロード＆ホーム画面ボード.md",
     "00_SBG/07_ライブラリ/外部資料/pptAF1B.tmp",
@@ -364,7 +364,6 @@
     "00_SBG/07_ライブラリ/外部資料/sample_Ver.0.20.md",
     "00_SBG/04_仕様書/A_プロト版/01_Start_Planner.md",
     "00_SBG/04_仕様書/A_プロト版/01_Start.md",
-    "00_SBG/04_仕様書/A_プロト版/Ver.1.0_プロト版仕様書.md",
     "00_SBG/01_はじめに/★クイックアクセス.canvas",
     "00_SBG/06_発想広場/キャンバス/無題のファイル.canvas",
     "00_SBG/06_発想広場/キャンバス/無題のファイル 1.canvas",
