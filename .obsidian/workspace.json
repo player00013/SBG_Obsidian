@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_SBG/04_仕様書/A_プロト版/04_SaveScene_Planner.md",
-                "mode": "preview",
+                "file": "00_SBG/02_タスク管理/タスクチケット/娼館画面_プロト版.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "04_SaveScene_Planner"
+              "title": "娼館画面_プロト版"
             }
           },
           {
@@ -294,8 +294,10 @@
   },
   "active": "aba010d833eaed26",
   "lastOpenFiles": [
-    "00_SBG/07_ライブラリ/データ検索/回想画面ボード.md",
+    "00_SBG/07_ライブラリ/外部資料/pptD11B.tmp",
+    "00_SBG/02_タスク管理/タスクボード.md",
     "00_SBG/04_仕様書/A_プロト版/04_SaveScene_Planner.md",
+    "00_SBG/07_ライブラリ/データ検索/回想画面ボード.md",
     "00_SBG/07_ライブラリ/外部資料/pptD48F.tmp",
     "00_SBG/07_ライブラリ/外部資料/ppt1115.tmp",
     "00_SBG/07_ライブラリ/外部資料/~$ホーム画面UI素材用.pptx",
@@ -313,7 +315,6 @@
     "00_SBG/07_ライブラリ/データ検索/ゲート画面ボード.md",
     "00_SBG/02_タスク管理/タスクチケット/娼館画面_プロト版.md",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20260911230048.png",
-    "00_SBG/02_タスク管理/タスクボード.md",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20260910215341.png",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20260910215132.png",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20260910214633.png",
@@ -339,7 +340,6 @@
     "00_SBG/02_タスク管理/タスクチケット/全画面のディレクトリ図作成.md",
     "00_SBG/07_ライブラリ/外部資料/sample_Ver.0.20.md",
     "00_SBG/04_仕様書/A_プロト版/01_Start_Planner.md",
-    "00_SBG/04_仕様書/A_プロト版/01_Start.md",
     "00_SBG/01_はじめに/★クイックアクセス.canvas",
     "00_SBG/06_発想広場/キャンバス/無題のファイル.canvas",
     "00_SBG/06_発想広場/キャンバス/無題のファイル 1.canvas",
