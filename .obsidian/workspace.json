@@ -32,30 +32,6 @@
             }
           },
           {
-            "id": "49fabfe83e7c162b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_SBG/04_仕様書/A_プロト版/04_SaveScene_Planner.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "04_SaveScene_Planner"
-            }
-          },
-          {
             "id": "5742e179f743219b",
             "type": "leaf",
             "state": {
@@ -103,8 +79,7 @@
               "title": "娼館画面_プロト版"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -241,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00_SBG/02_タスク管理/タスクチケット/スタート画面プロト版.md",
+                "file": "00_SBG/07_ライブラリ/データ検索/武器製造画面.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -297,8 +272,15 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "5742e179f743219b",
+  "active": "aba010d833eaed26",
   "lastOpenFiles": [
+    "00_SBG/07_ライブラリ/画像素材/スクリーンショット 2026-09-16 015245.png",
+    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260926101558.png",
+    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260926081640.png",
+    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260926080032.png",
+    "00_SBG/07_ライブラリ/データ検索/娼館画面.md",
+    "00_SBG/07_ライブラリ/外部資料/ppt783C.tmp",
+    "00_SBG/07_ライブラリ/外部資料/pptEE5F.tmp",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20260924111640.png",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20260924110722.png",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20260924110615.png",
@@ -306,10 +288,6 @@
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20260924092349.png",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20260924092342.png",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20260924091332.png",
-    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260924073318.png",
-    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260924034350.png",
-    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260923130947.png",
-    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260923100346.png",
     "00_SBG/02_タスク管理/タスクチケット/娼館画面_プロト版.md",
     "00_SBG/07_ライブラリ/外部資料/ppt29BC.tmp",
     "00_SBG/07_ライブラリ/外部資料/ppt47EB.tmp",
@@ -320,7 +298,6 @@
     "00_SBG/07_ライブラリ/データ検索/回想画面ボード.md",
     "00_SBG/07_ライブラリ/外部資料/pptC985.tmp",
     "00_SBG/07_ライブラリ/外部資料/ppt83AD.tmp",
-    "00_SBG/07_ライブラリ/データ検索/娼館画面.md",
     "00_SBG/07_ライブラリ/データ検索/ゲート画面ボード.md",
     "00_SBG/07_ライブラリ/データ検索/ロード＆ホーム画面ボード.md",
     "00_SBG/07_ライブラリ/データ検索/武器製造画面.md",
@@ -329,8 +306,6 @@
     "00_SBG/07_ライブラリ/外部資料/ppt216E.tmp",
     "00_SBG/07_ライブラリ/外部資料/pptA858.tmp",
     "00_SBG/07_ライブラリ/外部資料/ppt4C15.tmp",
-    "00_SBG/07_ライブラリ/外部資料/~$SBG.pptx",
-    "00_SBG/07_ライブラリ/外部資料/pptD11B.tmp",
     "00_SBG/04_仕様書/A_プロト版/03_HomeScene_Planner.md",
     "00_SBG/02_タスク管理/タスクチケット/セーブ画面_プロト版.md",
     "00_SBG/02_タスク管理/タスクチケット/ゲート画面_プロト版.md",
