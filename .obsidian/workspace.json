@@ -78,9 +78,33 @@
               "icon": "lucide-file",
               "title": "娼館画面"
             }
+          },
+          {
+            "id": "cae7e86ba8e69dbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_SBG/07_ライブラリ/データ検索/ゲート画面ボード.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "ゲート画面ボード"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -322,10 +346,15 @@
       }
     ]
   },
-  "active": "c16b479ed30d2450",
+  "active": "cae7e86ba8e69dbe",
   "lastOpenFiles": [
-    "00_SBG/07_ライブラリ/テンプレ/メッセテンプレ.md",
+    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260930141920.png",
+    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260930141901.png",
     "00_SBG/07_ライブラリ/データ検索/娼館画面.md",
+    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260930131626.png",
+    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260930123755.png",
+    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260930123748.png",
+    "00_SBG/07_ライブラリ/テンプレ/メッセテンプレ.md",
     "00_SBG/04_仕様書/A_プロト版/08_MissionScene_Planner.md",
     "00_SBG/04_仕様書/A_プロト版/05_HomeMenuScene_Planner.md",
     "00_SBG/07_ライブラリ/外部資料/~$SBG.pptx",
@@ -339,15 +368,11 @@
     "00_SBG/07_ライブラリ/データ検索/キャラクター画面ボード.md",
     "00_SBG/07_ライブラリ/画像素材/novel1.PNG.png",
     "00_SBG/07_ライブラリ/画像素材/1-1.png",
-    "00_SBG/07_ライブラリ/画像素材/カナエビッチ服_wipe_bg.png",
     "00_SBG/07_ライブラリ/データ検索/武器製造画面.md",
     "00_SBG/07_ライブラリ/外部資料/ppt9E2B.tmp",
-    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260927104244.png",
     "00_SBG/04_仕様書/A_プロト版/03_HomeScene_Planner.md",
     "00_SBG/02_タスク管理/タスクチケット/娼館画面_プロト版.md",
     "00_SBG/07_ライブラリ/外部資料/ppt4B7B.tmp",
-    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260926131648.png",
-    "00_SBG/07_ライブラリ/画像素材/Pasted image 20260926114723.png",
     "00_SBG/07_ライブラリ/外部資料/ppt783C.tmp",
     "00_SBG/07_ライブラリ/外部資料/pptEE5F.tmp",
     "00_SBG/07_ライブラリ/外部資料/ppt29BC.tmp",
@@ -371,7 +396,6 @@
     "conflict-files-obsidian-git.md",
     "00_SBG/04_仕様書/A_プロト版/02_LoadScene_Planner (1).md",
     "00_SBG/07_ライブラリ/外部資料/sample_Ver.0.25.md",
-    "00_SBG/07_ライブラリ/外部資料/sample_Ver.0.23.md",
     "00_SBG/01_はじめに/★クイックアクセス.canvas",
     "00_SBG/06_発想広場/キャンバス/ホワイトボード_無題.canvas",
     "00_DeskWars/01_はじめに/★クイックアクセス.canvas",
