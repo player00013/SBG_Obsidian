@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "00_SBG/07_ライブラリ/テンプレ/メッセテンプレ.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -75,8 +75,7 @@
               "title": "タスクボード"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -268,8 +267,12 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "4522ba19881958fd",
+  "active": "bff48554ccac0a8d",
   "lastOpenFiles": [
+    "00_SBG/07_ライブラリ/外部資料/ppt4AEE.tmp",
+    "00_SBG/07_ライブラリ/データ検索/ロード＆ホーム画面ボード.md",
+    "00_SBG/07_ライブラリ/画像素材/Pasted image 20261009184814.png",
+    "00_SBG/07_ライブラリ/画像素材/Pasted image 20261009184806.png",
     "00_SBG/07_ライブラリ/外部資料/~$SBG.pptx",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20261009094928.png",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20261009092542.png",
@@ -287,8 +290,6 @@
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20261004220921.png",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20261004220910.png",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20261004220903.png",
-    "00_SBG/07_ライブラリ/画像素材/Pasted image 20261004220856.png",
-    "00_SBG/07_ライブラリ/画像素材/Pasted image 20261004220850.png",
     "00_SBG/02_タスク管理/タスクボード.md",
     "00_SBG/07_ライブラリ/外部資料/ppt9FE5.tmp",
     "00_SBG/04_仕様書/A_プロト版/09_SelectScene_Planner.md",
@@ -307,7 +308,6 @@
     "00_SBG/02_タスク管理/タスクチケット/娼館画面_プロト版.md",
     "00_SBG/02_タスク管理/タスクチケット/回想画面_プロト版.md",
     "00_SBG/04_仕様書/A_プロト版/04_SaveScene_Planner.md",
-    "00_SBG/07_ライブラリ/データ検索/ロード＆ホーム画面ボード.md",
     "00_SBG/06_発想広場/キャンバス/無題のファイル 1.canvas",
     "00_SBG/06_発想広場/キャンバス/無題のファイル.canvas",
     "00_SBG/02_タスク管理/タスクチケット/セーブ画面_プロト版.md",
