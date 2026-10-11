@@ -1,4 +1,4 @@
-# 章選択画面（SelectChapterScene）企画確認用
+# 章選択画面（SelectChapterScene）
 
 ## 1. 画面の概要
 
