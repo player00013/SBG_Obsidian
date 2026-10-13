@@ -1,5 +1,7 @@
 {
-	"nodes":[],
+	"nodes":[
+		{"id":"60a0ce1270512847","type":"text","text":"https://excalidraw.com/","x":-214,"y":370,"width":250,"height":60}
+	],
 	"edges":[],
 	"metadata":{
 		"version":"1.0-1.0",

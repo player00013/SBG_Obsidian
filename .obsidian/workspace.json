@@ -116,27 +116,31 @@
             }
           },
           {
-            "id": "f33933a572f0fa53",
+            "id": "c1f34e5f67281c8d",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "00_SBG/02_タスク管理/タスクボード.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
+                "file": "00_SBG/01_はじめに/プラグイン一覧.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-trello",
-              "title": "タスクボード"
+              "icon": "lucide-file",
+              "title": "プラグイン一覧"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -328,11 +332,15 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "3a18df1656d419cd",
+  "active": "6d70e8dd6fef628a",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "00_SBG/02_タスク管理/タスクチケット/限界突破系システム追加.md",
     "00_SBG/02_タスク管理/タスクボード.md",
+    "00_SBG/07_ライブラリ/データ検索/キャラクター画面ボード.md",
+    "00_SBG/01_はじめに/プラグイン一覧.md",
+    "00_SBG/06_発想広場/キャンバス/ホワイトボード_無題.canvas",
+    "00_SBG/01_はじめに/★クイックアクセス.canvas",
+    "conflict-files-obsidian-git.md",
     "00_SBG/07_ライブラリ/データ検索/ロード＆ホーム画面ボード.md",
     "00_SBG/07_ライブラリ/外部資料/~$SBG.pptx",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20261011215957.png",
@@ -349,7 +357,6 @@
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20261009184814.png",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20261009184806.png",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20261009094928.png",
-    "00_SBG/07_ライブラリ/データ検索/キャラクター画面ボード.md",
     "00_SBG/07_ライブラリ/データ検索/回想画面ボード.md",
     "00_SBG/07_ライブラリ/データ検索/ゲート画面ボード.md",
     "00_SBG/02_タスク管理/タスクチケット/微調整.md",
@@ -376,10 +383,6 @@
     "00_SBG/06_発想広場/キャンバス/無題のファイル.canvas",
     "00_SBG/02_タスク管理/タスクチケット/セーブ画面_プロト版.md",
     "00_SBG/02_タスク管理/タスクチケット/ゲート画面_プロト版.md",
-    "00_SBG/02_タスク管理/タスクチケット/サンプルデータVer0.20.md",
-    "00_SBG/07_ライブラリ/テンプレ/タスクチケットテンプレート.md",
-    "00_SBG/01_はじめに/★クイックアクセス.canvas",
-    "00_SBG/06_発想広場/キャンバス/ホワイトボード_無題.canvas",
     "00_DeskWars/01_はじめに/★クイックアクセス.canvas",
     "00_DeskWars/06_発想広場/キャンバス/無題のファイル.canvas",
     "00_DeskWars/06_発想広場/キャンバス/無題のファイル 1.canvas",
