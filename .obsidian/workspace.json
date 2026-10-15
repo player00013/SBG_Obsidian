@@ -11,20 +11,24 @@
             "id": "bff48554ccac0a8d",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "00_SBG/02_タスク管理/タスクボード.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
+                "file": "00_SBG/02_タスク管理/タスクチケット/チェック後修正.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-trello",
-              "title": "タスクボード"
+              "icon": "lucide-file",
+              "title": "チェック後修正"
             }
           },
           {
@@ -34,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "00_SBG/07_ライブラリ/テンプレ/メッセテンプレ.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -76,26 +80,6 @@
             }
           },
           {
-            "id": "9627c939b3e4c2c5",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "00_SBG/02_タスク管理/タスクボード.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "タスクボード"
-            }
-          },
-          {
             "id": "3a18df1656d419cd",
             "type": "leaf",
             "state": {
@@ -114,33 +98,9 @@
               "icon": "lucide-trello",
               "title": "タスクボード"
             }
-          },
-          {
-            "id": "c1f34e5f67281c8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_SBG/01_はじめに/プラグイン一覧.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "プラグイン一覧"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -332,12 +292,69 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "6d70e8dd6fef628a",
+  "floating": {
+    "id": "8d85140516053024",
+    "type": "floating",
+    "children": [
+      {
+        "id": "dc35638548755778",
+        "type": "window",
+        "children": [
+          {
+            "id": "66e7df3b9d4653cc",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "97a1f913eed30f47",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "00_SBG/07_ライブラリ/データ検索/武器製造画面.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "武器製造画面"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 2583,
+        "y": 15,
+        "width": 3840,
+        "height": 2160,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "208b3c626a523625",
   "lastOpenFiles": [
-    "00_SBG/02_タスク管理/タスクチケット/限界突破系システム追加.md",
+    "00_SBG/07_ライブラリ/データ検索/武器製造画面.md",
+    "00_SBG/07_ライブラリ/外部資料/ppt1B6A.tmp",
+    "00_SBG/07_ライブラリ/外部資料/pptA275.tmp",
+    "00_SBG/07_ライブラリ/画像素材/Pasted image 20261015050837.png",
+    "00_SBG/07_ライブラリ/画像素材/Pasted image 20261015045835.png",
+    "00_SBG/07_ライブラリ/画像素材/Pasted image 20261015045825.png",
+    "00_SBG/02_タスク管理/タスクチケット/チェック後修正.md",
     "00_SBG/02_タスク管理/タスクボード.md",
-    "00_SBG/07_ライブラリ/データ検索/キャラクター画面ボード.md",
+    "00_SBG/07_ライブラリ/テンプレ/メッセテンプレ.md",
     "00_SBG/01_はじめに/プラグイン一覧.md",
+    "00_SBG/02_タスク管理/タスクチケット/限界突破系システム追加.md",
+    "00_SBG/07_ライブラリ/データ検索/キャラクター画面ボード.md",
     "00_SBG/06_発想広場/キャンバス/ホワイトボード_無題.canvas",
     "00_SBG/01_はじめに/★クイックアクセス.canvas",
     "conflict-files-obsidian-git.md",
@@ -350,13 +367,8 @@
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20261011215930.png",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20261011215925.png",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20261011215920.png",
-    "00_SBG/02_タスク管理/タスクチケット/チェック後修正.md",
     "00_SBG/04_仕様書/A_プロト版/12_NovelScene_Planner.md",
-    "00_SBG/07_ライブラリ/テンプレ/メッセテンプレ.md",
     "00_SBG/07_ライブラリ/外部資料/ppt4AEE.tmp",
-    "00_SBG/07_ライブラリ/画像素材/Pasted image 20261009184814.png",
-    "00_SBG/07_ライブラリ/画像素材/Pasted image 20261009184806.png",
-    "00_SBG/07_ライブラリ/画像素材/Pasted image 20261009094928.png",
     "00_SBG/07_ライブラリ/データ検索/回想画面ボード.md",
     "00_SBG/07_ライブラリ/データ検索/ゲート画面ボード.md",
     "00_SBG/02_タスク管理/タスクチケット/微調整.md",
@@ -368,13 +380,10 @@
     "00_SBG/04_仕様書/A_プロト版/10_SelectChapterScene_Planner.md",
     "00_SBG/07_ライブラリ/外部資料/pptEC87.tmp",
     "00_SBG/07_ライブラリ/画像素材/立ち絵",
-    "00_SBG/07_ライブラリ/外部資料/ppt3AC2.tmp",
     "00_SBG/04_仕様書/A_プロト版/08_MissionScene_Planner.md",
-    "00_SBG/07_ライブラリ/外部資料/ppt64DA.tmp",
     "00_SBG/07_ライブラリ/データ検索/娼館画面.md",
     "00_SBG/02_タスク管理/タスクチケット/仕様書進捗.md",
     "00_SBG/04_仕様書/A_プロト版/05_HomeMenuScene_Planner.md",
-    "00_SBG/07_ライブラリ/データ検索/武器製造画面.md",
     "00_SBG/04_仕様書/A_プロト版/03_HomeScene_Planner.md",
     "00_SBG/02_タスク管理/タスクチケット/娼館画面_プロト版.md",
     "00_SBG/02_タスク管理/タスクチケット/回想画面_プロト版.md",
