@@ -292,59 +292,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "floating": {
-    "id": "8d85140516053024",
-    "type": "floating",
-    "children": [
-      {
-        "id": "dc35638548755778",
-        "type": "window",
-        "children": [
-          {
-            "id": "66e7df3b9d4653cc",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "97a1f913eed30f47",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "00_SBG/07_ライブラリ/データ検索/武器製造画面.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "武器製造画面"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 2583,
-        "y": 15,
-        "width": 1920,
-        "height": 1080,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "97a1f913eed30f47",
+  "active": "208b3c626a523625",
   "lastOpenFiles": [
-    "00_SBG/07_ライブラリ/テンプレ/メッセテンプレ.md",
+    "00_SBG/07_ライブラリ/外部資料/ppt5D76.tmp",
     "00_SBG/07_ライブラリ/データ検索/武器製造画面.md",
+    "00_SBG/07_ライブラリ/テンプレ/メッセテンプレ.md",
     "00_SBG/07_ライブラリ/外部資料/ppt1B6A.tmp",
     "00_SBG/07_ライブラリ/外部資料/pptA275.tmp",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20261015050837.png",
