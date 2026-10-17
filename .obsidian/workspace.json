@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_SBG/07_ライブラリ/テンプレ/メッセテンプレ.md",
+                "file": "00_SBG/04_仕様書/A_プロト版/13_DefenseMenuScene_Planner.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "メッセテンプレ"
+              "title": "13_DefenseMenuScene_Planner"
             }
           },
           {
@@ -294,9 +294,10 @@
   },
   "active": "208b3c626a523625",
   "lastOpenFiles": [
+    "00_SBG/07_ライブラリ/テンプレ/メッセテンプレ.md",
+    "00_SBG/04_仕様書/A_プロト版/13_DefenseMenuScene_Planner.md",
     "00_SBG/07_ライブラリ/外部資料/ppt5D76.tmp",
     "00_SBG/07_ライブラリ/データ検索/武器製造画面.md",
-    "00_SBG/07_ライブラリ/テンプレ/メッセテンプレ.md",
     "00_SBG/07_ライブラリ/外部資料/ppt1B6A.tmp",
     "00_SBG/07_ライブラリ/外部資料/pptA275.tmp",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20261015050837.png",
@@ -331,7 +332,6 @@
     "00_SBG/04_仕様書/A_プロト版/09_SelectScene_Planner.md",
     "00_SBG/04_仕様書/A_プロト版/10_SelectChapterScene_Planner.md",
     "00_SBG/07_ライブラリ/外部資料/pptEC87.tmp",
-    "00_SBG/07_ライブラリ/画像素材/立ち絵",
     "00_SBG/04_仕様書/A_プロト版/08_MissionScene_Planner.md",
     "00_SBG/07_ライブラリ/データ検索/娼館画面.md",
     "00_SBG/02_タスク管理/タスクチケット/仕様書進捗.md",
