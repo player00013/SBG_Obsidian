@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_SBG/07_ライブラリ/データ検索/ロード＆ホーム画面ボード.md",
+                "file": "00_SBG/07_ライブラリ/マニュアル/無題のファイル.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ロード＆ホーム画面ボード"
+              "title": "無題のファイル"
             }
           },
           {
@@ -308,19 +308,21 @@
           }
         ],
         "direction": "vertical",
-        "x": 636,
-        "y": -1055,
+        "x": 2170,
+        "y": 237,
         "width": 1276,
-        "height": 1040,
+        "height": 1041,
         "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "7cf9bc22a02b3902",
+  "active": "4522ba19881958fd",
   "lastOpenFiles": [
-    "00_SBG/07_ライブラリ/テンプレ/メッセテンプレ.md",
     "00_SBG/07_ライブラリ/データ検索/ロード＆ホーム画面ボード.md",
+    "00_SBG/07_ライブラリ/マニュアル/無題のファイル.md",
+    "00_SBG/07_ライブラリ/マニュアル",
+    "00_SBG/07_ライブラリ/テンプレ/メッセテンプレ.md",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20261020042336.png",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20261020042330.png",
     "00_SBG/04_仕様書/A_プロト版/13_DefenseMenuScene_Planner .md",
@@ -355,7 +357,6 @@
     "00_SBG/02_タスク管理/タスクチケット/微調整.md",
     "00_SBG/07_ライブラリ/外部資料/SBG [自動保存済み].pptx",
     "00_SBG/07_ライブラリ/外部資料/~$SBG [自動保存済み].pptx",
-    "00_SBG/07_ライブラリ/外部資料/ppt673B.tmp",
     "00_SBG/04_仕様書/A_プロト版/09_SelectScene_Planner.md",
     "00_SBG/04_仕様書/A_プロト版/10_SelectChapterScene_Planner.md",
     "00_SBG/04_仕様書/A_プロト版/08_MissionScene_Planner.md",
