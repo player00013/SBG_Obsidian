@@ -98,9 +98,33 @@
               "icon": "lucide-trello",
               "title": "タスクボード"
             }
+          },
+          {
+            "id": "2d90229ad456d135",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_SBG/07_ライブラリ/データ検索/キャラクター画面ボード.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "キャラクター画面ボード"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -341,10 +365,19 @@
       }
     ]
   },
-  "active": "4522ba19881958fd",
+  "active": "2d90229ad456d135",
   "lastOpenFiles": [
-    "00_SBG/04_仕様書/A_プロト版/14_GatePowerUpScene.md_Planner.md",
+    "00_SBG/07_ライブラリ/画像素材/Pasted image 20261020160931.png",
+    "00_SBG/07_ライブラリ/画像素材/Pasted image 20261020160924.png",
+    "00_SBG/07_ライブラリ/画像素材/Pasted image 20261020160722.png",
+    "00_SBG/07_ライブラリ/画像素材/Pasted image 20261020160716.png",
+    "00_SBG/07_ライブラリ/画像素材/Pasted image 20261020160645.png",
     "00_SBG/07_ライブラリ/テンプレ/メッセテンプレ.md",
+    "00_SBG/07_ライブラリ/データ検索/キャラクター画面ボード.md",
+    "00_SBG/07_ライブラリ/外部資料/ppt5579.tmp",
+    "00_SBG/02_タスク管理/タスクボード.md",
+    "00_SBG/04_仕様書/A_プロト版/13_DefenseMenuScene_Planner.md",
+    "00_SBG/04_仕様書/A_プロト版/14_GatePowerUpScene.md_Planner.md",
     "00_SBG/07_ライブラリ/マニュアル/Obsidianマニュアル_Ver.20261020.md",
     "00_SBG/07_ライブラリ/データ検索/ゲート画面ボード.md",
     "00_SBG/07_ライブラリ/データ検索/ロード＆ホーム画面ボード.md",
@@ -354,8 +387,6 @@
     "00_SBG/07_ライブラリ/マニュアル",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20261020042336.png",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20261020042330.png",
-    "00_SBG/04_仕様書/A_プロト版/13_DefenseMenuScene_Planner.md",
-    "00_SBG/04_仕様書/A_プロト版/13_DefenseMenuScene_Planner.md",
     "00_SBG/07_ライブラリ/外部資料/ppt8482.tmp",
     "00_SBG/07_ライブラリ/外部資料/ppt4829.tmp",
     "00_SBG/07_ライブラリ/外部資料/ppt5D76.tmp",
@@ -364,24 +395,17 @@
     "00_SBG/07_ライブラリ/外部資料/pptA275.tmp",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20261015050837.png",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20261015045835.png",
-    "00_SBG/07_ライブラリ/画像素材/Pasted image 20261015045825.png",
-    "00_SBG/02_タスク管理/タスクボード.md",
     "00_SBG/01_はじめに/プラグイン一覧.md",
     "00_SBG/02_タスク管理/タスクチケット/限界突破系システム追加.md",
-    "00_SBG/07_ライブラリ/データ検索/キャラクター画面ボード.md",
     "00_SBG/06_発想広場/キャンバス/ホワイトボード_無題.canvas",
     "00_SBG/01_はじめに/★クイックアクセス.canvas",
     "conflict-files-obsidian-git.md",
     "00_SBG/07_ライブラリ/外部資料/~$SBG.pptx",
-    "00_SBG/07_ライブラリ/画像素材/Pasted image 20261011215957.png",
-    "00_SBG/07_ライブラリ/画像素材/Pasted image 20261011215951.png",
-    "00_SBG/07_ライブラリ/画像素材/Pasted image 20261011215945.png",
     "00_SBG/04_仕様書/A_プロト版/12_NovelScene_Planner.md",
     "00_SBG/07_ライブラリ/外部資料/ppt4AEE.tmp",
     "00_SBG/07_ライブラリ/データ検索/回想画面ボード.md",
     "00_SBG/02_タスク管理/タスクチケット/微調整.md",
     "00_SBG/07_ライブラリ/外部資料/SBG [自動保存済み].pptx",
-    "00_SBG/07_ライブラリ/外部資料/~$SBG [自動保存済み].pptx",
     "00_SBG/04_仕様書/A_プロト版/09_SelectScene_Planner.md",
     "00_SBG/04_仕様書/A_プロト版/10_SelectChapterScene_Planner.md",
     "00_SBG/04_仕様書/A_プロト版/08_MissionScene_Planner.md",
