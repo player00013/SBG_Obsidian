@@ -28,54 +28,6 @@
             }
           },
           {
-            "id": "407e97bbb3453b28",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_SBG/07_ライブラリ/データ検索/回想画面ボード.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "回想画面ボード"
-            }
-          },
-          {
-            "id": "a1290c55b1c4c778",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_SBG/07_ライブラリ/データ検索/キャラクター画面ボード.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "キャラクター画面ボード"
-            }
-          },
-          {
             "id": "e4a4a0c4af56aa55",
             "type": "leaf",
             "state": {
@@ -97,6 +49,30 @@
               },
               "icon": "lucide-file",
               "title": "16_SelectGalleryCharacterScene"
+            }
+          },
+          {
+            "id": "ef4c1ace986259e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_SBG/07_ライブラリ/データ検索/ゲート画面ボード.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "ゲート画面ボード"
             }
           }
         ],
@@ -341,29 +317,29 @@
       }
     ]
   },
-  "active": "a1290c55b1c4c778",
+  "active": "ef4c1ace986259e1",
   "lastOpenFiles": [
+    "00_SBG/07_ライブラリ/画像素材/Pasted image 20261022044614.png",
+    "00_SBG/07_ライブラリ/画像素材/Pasted image 20261022044608.png",
+    "00_SBG/07_ライブラリ/画像素材/Pasted image 20261022040010.png",
+    "00_SBG/07_ライブラリ/画像素材/Pasted image 20261022040001.png",
+    "00_SBG/07_ライブラリ/画像素材/Pasted image 20261022035955.png",
+    "00_SBG/07_ライブラリ/画像素材/Pasted image 20261022035949.png",
+    "00_SBG/07_ライブラリ/画像素材/Pasted image 20261022035936.png",
+    "00_SBG/04_仕様書/A_プロト版/16_SelectGalleryCharacterScene.md",
+    "00_SBG/07_ライブラリ/データ検索/キャラクター画面ボード.md",
+    "00_SBG/07_ライブラリ/テンプレ/メッセテンプレ.md",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20261021132812.png",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20261021132806.png",
     "00_SBG/07_ライブラリ/データ検索/回想画面ボード.md",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20261021113034.png",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20261021113028.png",
-    "00_SBG/04_仕様書/A_プロト版/16_SelectGalleryCharacterScene.md",
-    "00_SBG/07_ライブラリ/テンプレ/メッセテンプレ.md",
-    "00_SBG/07_ライブラリ/画像素材/Pasted image 20261021103209.png",
     "00_SBG/04_仕様書/A_プロト版/15_SelectGalleryScene_Planner.md",
     "00_SBG/04_仕様書/A_プロト版/14_GatePowerUpScene.md_Planner .md",
     "00_SBG/07_ライブラリ/データ検索/ゲート画面ボード.md",
     "00_SBG/02_タスク管理/タスクボード.md",
     "00_SBG/04_仕様書/A_プロト版/13_DefenseMenuScene_Planner.md",
-    "00_SBG/07_ライブラリ/データ検索/キャラクター画面ボード.md",
     "00_SBG/07_ライブラリ/外部資料/ppt65AA.tmp",
-    "00_SBG/07_ライブラリ/画像素材/Pasted image 20261020161750.png",
-    "00_SBG/07_ライブラリ/画像素材/Pasted image 20261020161745.png",
-    "00_SBG/07_ライブラリ/画像素材/Pasted image 20261020161737.png",
-    "00_SBG/07_ライブラリ/画像素材/Pasted image 20261020161501.png",
-    "00_SBG/07_ライブラリ/画像素材/Pasted image 20261020160931.png",
-    "00_SBG/07_ライブラリ/画像素材/Pasted image 20261020160924.png",
     "00_SBG/07_ライブラリ/外部資料/ppt5579.tmp",
     "00_SBG/04_仕様書/A_プロト版/14_GatePowerUpScene.md_Planner.md",
     "00_SBG/07_ライブラリ/マニュアル/Obsidianマニュアル_Ver.20261020.md",
