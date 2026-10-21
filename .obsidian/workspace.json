@@ -268,57 +268,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "floating": {
-    "id": "6f430399fff2a75f",
-    "type": "floating",
-    "children": [
-      {
-        "id": "1de9138163f5b08c",
-        "type": "window",
-        "children": [
-          {
-            "id": "2f9e881b3f17d1a7",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "ff1997bfdc9b6dea",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "00_SBG/07_ライブラリ/テンプレ/メッセテンプレ.md",
-                    "mode": "preview",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "メッセテンプレ"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 963,
-        "y": -1080,
-        "width": 960,
-        "height": 1080,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "349c3968406a8e89",
   "lastOpenFiles": [
+    "00_SBG/07_ライブラリ/テンプレ/メッセテンプレ.md",
+    "00_SBG/07_ライブラリ/データ検索/ゲート画面ボード.md",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20261022071608.png",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20261022071602.png",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20261022071555.png",
@@ -329,7 +282,6 @@
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20261022071238.png",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20261022071231.png",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20261022071224.png",
-    "00_SBG/07_ライブラリ/画像素材/Pasted image 20261022071218.png",
     "00_SBG/07_ライブラリ/データ検索/娼館画面.md",
     "00_SBG/04_仕様書/A_プロト版/16_SelectGalleryCharacterScene.md",
     "00_SBG/04_仕様書/A_プロト版/15_SelectGalleryScene_Planner.md",
@@ -343,9 +295,7 @@
     "00_SBG/04_仕様書/A_プロト版/03_HomeScene_Planner.md",
     "00_SBG/04_仕様書/A_プロト版/02_LoadScene_Planner.md",
     "00_SBG/04_仕様書/A_プロト版/01_Start_Planner.md",
-    "00_SBG/07_ライブラリ/データ検索/ゲート画面ボード.md",
     "00_SBG/07_ライブラリ/データ検索/キャラクター画面ボード.md",
-    "00_SBG/07_ライブラリ/テンプレ/メッセテンプレ.md",
     "00_SBG/07_ライブラリ/データ検索/回想画面ボード.md",
     "00_SBG/02_タスク管理/タスクボード.md",
     "00_SBG/07_ライブラリ/外部資料/ppt65AA.tmp",
