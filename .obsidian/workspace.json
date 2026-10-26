@@ -57,8 +57,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_SBG/07_ライブラリ/データ検索/ゲート画面ボード.md",
-                "mode": "source",
+                "file": "00_SBG/04_仕様書/A_プロト版/16_SelectGalleryCharacterScene_Planner.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -72,7 +72,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ゲート画面ボード"
+              "title": "16_SelectGalleryCharacterScene_Planner"
             }
           }
         ],
@@ -270,8 +270,10 @@
   },
   "active": "349c3968406a8e89",
   "lastOpenFiles": [
-    "00_SBG/07_ライブラリ/テンプレ/メッセテンプレ.md",
     "00_SBG/07_ライブラリ/データ検索/ゲート画面ボード.md",
+    "00_SBG/04_仕様書/A_プロト版/16_SelectGalleryCharacterScene_Planner.md",
+    "00_SBG/07_ライブラリ/外部資料/ppt8DB9.tmp",
+    "00_SBG/07_ライブラリ/テンプレ/メッセテンプレ.md",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20261022071608.png",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20261022071602.png",
     "00_SBG/07_ライブラリ/画像素材/Pasted image 20261022071555.png",
@@ -316,7 +318,6 @@
     "00_SBG/06_発想広場/キャンバス/ホワイトボード_無題.canvas",
     "00_SBG/01_はじめに/★クイックアクセス.canvas",
     "00_SBG/07_ライブラリ/外部資料/~$SBG.pptx",
-    "00_SBG/07_ライブラリ/外部資料/ppt4AEE.tmp",
     "00_SBG/06_発想広場/キャンバス/無題のファイル 1.canvas",
     "00_SBG/06_発想広場/キャンバス/無題のファイル.canvas",
     "00_DeskWars/01_はじめに/★クイックアクセス.canvas",
